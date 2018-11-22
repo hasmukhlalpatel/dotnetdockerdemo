@@ -1,0 +1,10 @@
+D:\coding\My Github\dotnetdockerdemo\bin\Debug\netcoreapp2.0\dotnetdockerdemo.deps.json
+D:\coding\My Github\dotnetdockerdemo\bin\Debug\netcoreapp2.0\dotnetdockerdemo.runtimeconfig.json
+D:\coding\My Github\dotnetdockerdemo\bin\Debug\netcoreapp2.0\dotnetdockerdemo.runtimeconfig.dev.json
+D:\coding\My Github\dotnetdockerdemo\bin\Debug\netcoreapp2.0\dotnetdockerdemo.dll
+D:\coding\My Github\dotnetdockerdemo\bin\Debug\netcoreapp2.0\dotnetdockerdemo.pdb
+D:\coding\My Github\dotnetdockerdemo\obj\Debug\netcoreapp2.0\dotnetdockerdemo.csproj.CoreCompileInputs.cache
+D:\coding\My Github\dotnetdockerdemo\obj\Debug\netcoreapp2.0\dotnetdockerdemo.AssemblyInfoInputs.cache
+D:\coding\My Github\dotnetdockerdemo\obj\Debug\netcoreapp2.0\dotnetdockerdemo.AssemblyInfo.cs
+D:\coding\My Github\dotnetdockerdemo\obj\Debug\netcoreapp2.0\dotnetdockerdemo.dll
+D:\coding\My Github\dotnetdockerdemo\obj\Debug\netcoreapp2.0\dotnetdockerdemo.pdb
